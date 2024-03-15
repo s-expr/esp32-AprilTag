@@ -1,6 +1,5 @@
 .vscode
 build
 components/apriltag
-components/esp32-camera
 sdkconfig.old
 /components/

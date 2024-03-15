@@ -1,5 +1,3 @@
 .vscode
 build
-components/apriltag
 sdkconfig.old
-/components/
